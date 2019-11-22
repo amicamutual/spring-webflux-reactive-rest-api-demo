@@ -69,11 +69,11 @@
 			<artifactId>api-security-annotations</artifactId>
 			<version>0.2.0</version>
 		</dependency>
-		<dependency>
+<!-- 		<dependency>
 			<groupId>org.apache.tomcat.embed</groupId>
 			<artifactId>tomcat-embed-core</artifactId>
 			<scope>provided</scope>
-		</dependency>
+		</dependency> -->
 
 
 		<dependency>
